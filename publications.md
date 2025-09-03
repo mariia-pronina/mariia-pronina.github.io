@@ -9,7 +9,7 @@ title: "Publications"
 **Pronina, M.**, Florit-Pons, J., Coego, S., Prieto, P. (accepted). The MultiModal Imitation Task: a
 validation study. _Journal of Monolingual and Bilingual Speech_.
 
-Florit-Pons, J., **Pronina, M.**, Igualada, A., Prieto, P., & Norbury, C. F. (in press). Multimodal skills, but not motor skills, predict narrative and expressive pragmatic abilities in children with typical development and neurodevelopmental disorders. _Child Development_. doi: [10.1111/cdev.70015] ([10.1111/cdev.70015])
+Florit-Pons, J., **Pronina, M.**, Igualada, A., Prieto, P., & Norbury, C. F. (in press). Multimodal skills, but not motor skills, predict narrative and expressive pragmatic abilities in children with typical development and neurodevelopmental disorders. _Child Development_. doi: [10.1111/cdev.70015] (https://doi.org/10.1111/cdev.70015)
 
 Dyachenko, S. V., **Pronina, M.**, Knyazev, S. V. (2024). Dissimilative model for unstressed
 vowels: three Russian dialects. _Russian Linguistics_, 48:10 doi: [10.1007/s11185- 024-09294-3] (10.1007/s11185-024-09294-3)
