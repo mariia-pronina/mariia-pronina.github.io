@@ -1,7 +1,7 @@
 menu:
-- {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'presentations', url: '/presentations'}
+- {name: 'teaching', url: '/teaching'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Mariia Pronina',  department: 'Department of Catalan Philology and General Linguistics', university: 'The University of the Balearic Islands', institution_address: 'Carretera Valldemossa, km. 7,5 – 07122, Palma (Mallorca-Balearic Islands)', email: 'mariia.pronina@uib.cat', office: 'Despatx AB 04, Edifici Ramon Llull', image: 'assets/img/contact.jpg'}
