@@ -3,6 +3,8 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Hello, I am Mariia (Marusia) Pronina. I have a PhD in Language Sciences and I am postdoc Juan de la Cierva at the University of the Balearic Islands (UIB).
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am interested in the role of multimodal cues — prosody and gestures — in communication from a developmental and cognitive perspective. My research mainly focuses on first language acquisition. I study how the social and cognitive forces shape pragmatic and prosodic development. I am interested in bi- and multilingualism and the maintenance of heritage (migrant minority) languages.
+
+I defended my PhD at the University Pompeu Fabra in Dr. Pilar Prieto's lab (Group of Prosodic and Gesture Studies). Now I am doing my postdoc at the University of the Balearic Islands under the supervision of Maria del Mar Vanrell.
