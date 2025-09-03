@@ -5,14 +5,18 @@
     <div class="row g-5 mb-5">
       <div class="col-md-6">
         <h4>{{ contact.name }}</h4>
-        <p>{{ contact.title }} | {{ contact.department }}</p>
-        <p>{{ contact.institution }} | {{ contact.institution_address }}</p>
-        <p>Phone: {{ contact.phone }}</p>
+        <p>{{ contact.title}} {{ contact.department }}</p>
+        <p>{{ contact.university}} 
+        <p>{{ contact.institution_address) }}</p>
         <p>Email: {{ contact.email }}</p>
         <p>Office: {{ contact.office }}</p>
+        </p> </p>
+        Contact me to start a collaboration /<br/>
+        to get a copy of any publication /<br/>
+        or just to say hello
       </div>
       <div class="col-md-6">
-        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
+        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="60%">
       </div>
     </div>
     {% endfor %}
