@@ -23,19 +23,19 @@ vowels: three Russian dialects. _Russian Linguistics_, 48:10 doi: [10.1007/s1118
 - **Pronina, M.**., Hübscher, I, Holler, J., & Prieto, P. (2021). Interactional training interventions boost children's expressive pragmatic abilities: evidence from a novel multidimensional testing approach. _Cognitive Development_, 57, 101003. doi: [10.1016/j.cogdev.2020.101003](https://doi.org/10.1016/j.cogdev.2020.101003)
 
 - **Pronina, M.**, Hübscher, I., Vilà-Giménez, I., & Prieto, P. (2021). Bridging the gap between prosody and pragmatics: The acquisition of pragmatic prosody in the preschool years and its relation with Theory of Mind. _Front. Psychol._ 12:662124. doi: [10.3389/fpsyg.2021.662124](https://doi.org/10.3389/fpsyg.2021.662124)
-
+<br/>
 # BOOK CHAPTERS
 
 
 - **Pronina, M.**, Feldhausen, I., & Prieto, P. (accepted). Expressivity and Prosody. In Gutzmann, D. & Turgay, K. (Eds.), _The Oxford Handbook of Expressivity_. Oxford University Press.
 
 - **Pronina, M.**, Prieto, P. (2024). Acquisition of suprasegmental phonology in child bilingualism. In M. Amengual (Eds.), _Cambridge Handbook of Bilingual Phonetics and Phonology_ (pp. 359–382). Cambridge University Press.
-
+<br/>
 # REVIEWS
 
 
 - **Pronina, M.**, Knyazev, S. (2020) [Рец. на: / Review of:] P. Prieto, N. Esteve-Gibert (eds.). The development of prosody in first language acquisition. Amsterdam: John Benjamins, 2018. vi  368 p. (Trends in Language Acquisition Research, 23.) ISBN 9789027200594 (print), 9789027264213 (e-book). _Voprosy Jazykoznanija (Topics in the Study of Language)_, 5, 142- 150. doi: ([10.31857/0373-658X.2020.5.142-149](https://doi.org/10.31857/0373-658X.2020.5.142-149))
-  
+<br/>
 # CONFERENCE PROCEEDINGS
 - **Pronina, M.**, Hübscher, I., Vilà -Giménez, I., & Prieto, P. (2022). Pragmatic prosody development from 3 to 8 years of age: A cross-sectional study in Catalan. _Proceedings of the 11th International Conference on Speech Prosody_ (pp. 92–96). 23-26 May 2022, Lisbon, Portugal. doi: ([10.21437/SpeechProsody.2022](https://www.isca-archive.org/speechprosody_2022/pronina22_speechprosody.html#))
 
