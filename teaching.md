@@ -18,6 +18,7 @@ I served as a teaching assistant for the following courses:
 - Sounds and Intonation (Spring Trimester 2020, B.A., Applied Linguistics, language: Catalan)
 - Linguistics (Spring Trimester 2020, B.A., Applied Linguistics, language: Catalan)
 - Linguistics (Spring Trimester 2019, B.A., Translation and Interpreting, language: Spanish)
+- Linguistics (Spring Trimester 2019, B.A., Translation and Interpreting, language: Catalan)
 - Introduction to the University and Communication (Autumn Trimester 2018, B.A., Translation and Interpreting, language: Spanish)
 
 
