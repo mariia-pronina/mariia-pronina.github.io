@@ -18,7 +18,7 @@ courses:
 social:
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Mariia-Pronina'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0001-8795-2984'}
-- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=rxWD3jUAAAAJ'}
+- {icon: 'google scholar', link: 'https://scholar.google.com/citations?user=rxWD3jUAAAAJ'}
 
 contacts:
 - {name: 'Dr. Mariia Pronina',  department: 'Department of Catalan Philology and General Linguistics', university: 'The University of the Balearic Islands', institution_address: 'Carretera Valldemossa, km. 7,5 – 07122, Palma (Mallorca-Balearic Islands)', email: 'mariia.pronina@uib.cat', office: 'Despatx AB 04, Edifici Ramon Llull', image: 'assets/img/contact.jpg'}
