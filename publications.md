@@ -2,6 +2,7 @@
 layout: publications
 title: "Publications"
 ---
+Please get in touch if you would like to read any of these but don’t have access.
 
 # JOURNAL ARTICLES
 
