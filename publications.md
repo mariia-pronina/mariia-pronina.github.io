@@ -6,13 +6,13 @@ title: "Publications"
 # JOURNAL ARTICLES
 
 
-- **Pronina, M.**, Florit-Pons, J., Coego, S., Prieto, P. (accepted). The MultiModal Imitation Task: a
-validation study. _Journal of Monolingual and Bilingual Speech_.
+- **Pronina, M.**, Florit-Pons, J., Coego, S., Prieto, P. (in press). The MultiModal Imitation Task: a
+validation study. _Journal of Monolingual and Bilingual Speech_. Preprint accessible at [https://doi.org/10.31234/osf.io/q59hf_v1](https://doi.org/10.31234/osf.io/q59hf_v1)
 
-- Florit-Pons, J., **Pronina, M.**, Igualada, A., Prieto, P., & Norbury, C. F. (in press). Multimodal skills, but not motor skills, predict narrative and expressive pragmatic abilities in children with typical development and neurodevelopmental disorders. _Child Development_. doi: [10.1111/cdev.70015](https://doi.org/10.1111/cdev.70015)
+- Florit-Pons, J., **Pronina, M.**, Igualada, A., Prieto, P., & Norbury, C. F. (2025). Multimodal skills, but not motor skills, predict narrative and expressive pragmatic abilities in children with typical development and neurodevelopmental disorders. _Child Development_. _96_(5), 1807–1824. doi: [10.1111/cdev.70015](https://doi.org/10.1111/cdev.70015)
 
 - Dyachenko, S. V., **Pronina, M.**\*, Knyazev, S. V. (2024). Dissimilative model for unstressed
-vowels: three Russian dialects. _Russian Linguistics_, 48:10 doi: [10.1007/s11185- 024-09294-3](https://doi.org/10.1007/s11185-024-09294-3) \*shared first-authorship, corresponding author
+vowels: three Russian dialects. _Russian Linguistics_, 48:10. doi: [10.1007/s11185- 024-09294-3](https://doi.org/10.1007/s11185-024-09294-3) \*shared first-authorship, corresponding author
 
 - **Pronina, M.**, Grofulovic, J., Castillo, E., Prieto, P., & Igualada, A. (2023). Narrative abilities at 3 years of age are positively associated with gesture accuracy but negatively with gesture rate. _Journal of Speech, Language, and Hearing Research_, 66, 951-965. doi: [10.1044/2022_JSLHR-21-00414](https://doi.org/10.1044/2022_JSLHR-21-00414)
 
