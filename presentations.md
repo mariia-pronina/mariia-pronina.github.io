@@ -21,7 +21,7 @@ title: "presentations"
 
 **Pronina, M.**, Knyazev, S., & Vanrell, M.M. (2025). _Heritage Question Intonation in Multilingual Children._ [Oral presentation]. 10th Spring Research Conference, International University of Catalunya, Barcelona, Spain, March 14.
 
-Vanrell, M.M., **Pronina, M.**, Fernández-Soriano, O. & (2025). _La interfaz sintaxis-prosodia en las interrogativas del español del País Vasco._ [Oral presentation]. LIII Simposio Internacional de la Sociedad Española de Lingüística, University of Salamanca, Salamanca, Spain, January 20-23.
+Vanrell, M.M., **Pronina, M.**, & Fernández-Soriano, O. (2025). _La interfaz sintaxis-prosodia en las interrogativas del español del País Vasco._ [Oral presentation]. LIII Simposio Internacional de la Sociedad Española de Lingüística, University of Salamanca, Salamanca, Spain, January 20-23.
 
 **Pronina, M.**, Knyazev, S., & Vanrell, M.M. (2025). _La adquisición de la entonación en niños multilingües con el ruso como lengua de herencia en Cataluña._ [Oral presentation]. LIII Simposio Internacional de la Sociedad Española de Lingüística, University of Salamanca, Salamanca, Spain, January 20-23.
 
