@@ -26,6 +26,8 @@ Vanrell, M.M., **Pronina, M.**, Fernández-Soriano, O. & (2025). _La interfaz si
 **Pronina, M.**, Knyazev, S., & Vanrell, M.M. (2025). _La adquisición de la entonación en niños multilingües con el ruso como lengua de herencia en Cataluña._ [Oral presentation]. LIII Simposio Internacional de la Sociedad Española de Lingüística, University of Salamanca, Salamanca, Spain, January 20-23.
 
 ## 2024
+Dyachenko, S. V., Knyazev, S. V., **Pronina, M.** (2024). _Preaccented vocalism in Rogovatoe_. [Oral presentation]. International Scientific Conference Current Issues of Russian dialectology. Russian Language Institute of the Russian Academy of Sciences: Moscow, Russia, October 25–27.
+
 **Pronina, M.**, Florit-Pons, J., Coego, S., & Prieto, P. (2024). _Different developmental paths of multimodal imitation in typically and non-typically developing preschool and primary school children._ [Oral presentation]. 2nd International MultiModal Communication Symposium. Goethe Universität Frankfurt: Frankfurt, Germany, September 25-27.
 
 Vilà-Giménez, I., **Pronina, M.**, & Prieto, P. (2024). _Exploring children’s storytelling: The link between narrative abilities, receptive vocabulary and gesture rate in 7- to 9-year-olds._ [Poster presentation]. 2nd International MultiModal Communication Symposium. Goethe Universität Frankfurt: Frankfurt, Germany, September 25-27.
