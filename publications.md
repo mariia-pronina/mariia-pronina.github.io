@@ -10,6 +10,8 @@ Please get in touch if you would like to read any of these but don’t have acce
 - **Pronina, M.**, Florit-Pons, J., Coego, S., Prieto, P. (in press). The MultiModal Imitation Task: a
 validation study. _Journal of Monolingual and Bilingual Speech_. Preprint accessible at [https://doi.org/10.31234/osf.io/q59hf_v1](https://doi.org/10.31234/osf.io/q59hf_v1)
 
+- Florit-Pons, J., **Pronina, M.**, Coego, S., & Prieto, P. (2026). Multimodal imitation reveals differences in typically developing children and children with neurodevelopmental disorders. Cognitive Development, 77, 101668, doi: [0.1016/j.cogdev.2025.101668] (https://doi.org/10.1016/j.cogdev.2025.101668 )
+
 - Florit-Pons, J., **Pronina, M.**, Igualada, A., Prieto, P., & Norbury, C. F. (2025). Multimodal skills, but not motor skills, predict narrative and expressive pragmatic abilities in children with typical development and neurodevelopmental disorders. _Child Development_. _96_(5), 1807–1824. doi: [10.1111/cdev.70015](https://doi.org/10.1111/cdev.70015)
 
 - Dyachenko, S. V., **Pronina, M.**\*, Knyazev, S. V. (2024). Dissimilative model for unstressed
