@@ -70,7 +70,7 @@ Esteve-Gibert, N., Ahufinger, N., **Pronina, M.**, Florit-Pons, J., & Prieto, P.
 
 Esteve-Gibert, N., Ahufinger, N., **Pronina, M.**, Florit-Pons, J., & Prieto, P. (2022). _Expressive pragmatic skills at 3-4 years of age predict core linguistic abilities at 5-6 years of age._ In Durrleman, S., Relationship between language development and other cognitive developments [Symposium]. X International Congress on Language Acquisition. Universitat de Girona, Girona, September 7-9.
 
-**Pronina, M.**, Hü bscher, I., Vilà-Giménez, I., & Prieto, P. (2022). _Audiovisual Pragmatic Test: A pragmatic assessment instrument for Catalan speaking children._ Oral presentation at Jornades de Lingüística Catalana a Viena, Vienna, Austria, June 20-21.
+**Pronina, M.**, Hübscher, I., Vilà-Giménez, I., & Prieto, P. (2022). _Audiovisual Pragmatic Test: A pragmatic assessment instrument for Catalan speaking children._ Oral presentation at Jornades de Lingüística Catalana a Viena, Vienna, Austria, June 20-21.
 
 **Pronina, M.**, Hübscher, I., Vilà-Giménez, I., & Prieto, P. (2022). _Pragmatic prosody development from 3 to 8 years of age: A cross- sectional study in Catalan._ Poster presentation at Speech Prosody 2022, Lisbon, Portugal, May 23-26.
 
