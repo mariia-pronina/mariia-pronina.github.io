@@ -16,6 +16,9 @@ title: "presentations"
 
 **Pronina, M.** (2020, January 16). _Pragmatic competence in preschoolers and its link with other abilities_. NeTS Linguistics Seminar, IUSS, Pavia, Italy.
 
+## 2026
+**Pronina, M.**, Mañas, I., & Vanrell, M.M. (2025). _Adquisición de las habilidades narrativas en los niños multilingües hablantes de ruso, español y catalán._ [Oral presentation]. LIV Simposio Internacional de la Sociedad Española de Lingüística, Center for Human and Social Sciences, Madrid, Spain, January 26-29.
+
 ## 2025
 **Pronina, M.**, Knyazev, S., & Vanrell, M.M. (2025). _Question intonation in heritage Russian-speaking children._ [Poster presentation]. Bilingualism Matters Symposium 2025, University of Edinburgh, Edinburgh, United Kingdom, March 24-25.
 
