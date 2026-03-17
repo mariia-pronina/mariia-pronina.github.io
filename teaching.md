@@ -24,4 +24,4 @@ I served as a teaching assistant for the following courses:
 
 ### UOC (Open University of Catalonia)
 
-I served as a MA Collaborating Tutor and supervised MA dissertations in 2019-2021.
+I serve as an MA Collaborating Tutor and supervise MA dissertations within the Learning Difficulties and Language Disorders program.
