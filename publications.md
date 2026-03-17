@@ -31,9 +31,9 @@ vowels: three Russian dialects. _Russian Linguistics_, 48:10. doi: [10.1007/s111
 # BOOK CHAPTERS
 
 
-- **Pronina, M.**, Feldhausen, I., & Prieto, P. (in press). Expressivity and Prosody. In Gutzmann, D. & Turgay, K. (Eds.), _The Oxford Handbook of Expressivity_. Oxford University Press.
+- **Pronina, M.**, Feldhausen, I., & Prieto, P. (in press). Expressivity and Prosody. In Gutzmann, D. & Turgay, K. (Eds.), _The Oxford Handbook of Expressivity_ (pp. 352–373). Oxford University Press. doi: [https://doi.org/10.1093/oxfordhb/9780198869450.001.0001] (https://doi.org/10.1093/oxfordhb/9780198869450.001.0001)
 
-- **Pronina, M.**, Prieto, P. (2024). Acquisition of suprasegmental phonology in child bilingualism. In M. Amengual (Eds.), _Cambridge Handbook of Bilingual Phonetics and Phonology_ (pp. 359–382). Cambridge University Press.
+- **Pronina, M.**, Prieto, P. (2024). Acquisition of suprasegmental phonology in child bilingualism. In M. Amengual (Eds.), _Cambridge Handbook of Bilingual Phonetics and Phonology_ (pp. 359–382). Cambridge University Press. doi: [https://doi.org/10.1017/9781009105767.017] (https://doi.org/10.1017/9781009105767.017)
 
 
 # REVIEWS
@@ -43,6 +43,8 @@ vowels: three Russian dialects. _Russian Linguistics_, 48:10. doi: [10.1007/s111
 
 
 # CONFERENCE PROCEEDINGS
+- **Pronina, M.**, Knyazev, S., Vanrell, M.M. (accepted). Acquisition of wh-question intonation in Russian heritage children. Proceedings of the 13th International Conference on Speech Prosody. May 26-29, 2026, Philadelphia, Pennsylvania, USA.
+  
 - **Pronina, M.**, Hübscher, I., Vilà -Giménez, I., & Prieto, P. (2022). Pragmatic prosody development from 3 to 8 years of age: A cross-sectional study in Catalan. _Proceedings of the 11th International Conference on Speech Prosody_ (pp. 92–96). 23-26 May 2022, Lisbon, Portugal. doi: [10.21437/SpeechProsody.2022](https://www.isca-archive.org/speechprosody_2022/pronina22_speechprosody.html#)
 
 - Knyazev, S., **Pronina, M.** (2021) The intonation of yes and no in an archaic Russian dialect. _Proceedings of the Computational Linguistics and Intellectual Technologies 2021_. pp. 1-10. doi: [10.28995/2075-7182-2021-20-403-412](https://www.researchgate.net/publication/355216165_The_intonation_of_yes_and_no_in_an_archaic_Russian_dialect)
