@@ -2,7 +2,7 @@
 layout: publications
 title: "Publications"
 ---
-Please get in touch if you would like to read any of these but don’t have access.
+_Please get in touch if you would like to read any of these but don’t have access._
 
 # JOURNAL ARTICLES
 
@@ -31,9 +31,9 @@ vowels: three Russian dialects. _Russian Linguistics_, 48:10. doi: [10.1007/s111
 # BOOK CHAPTERS
 
 
-- **Pronina, M.**, Feldhausen, I., & Prieto, P. (in press). Expressivity and Prosody. In Gutzmann, D. & Turgay, K. (Eds.), _The Oxford Handbook of Expressivity_ (pp. 352–373). Oxford University Press. doi: [https://doi.org/10.1093/oxfordhb/9780198869450.001.0001] (https://doi.org/10.1093/oxfordhb/9780198869450.001.0001)
-
-- **Pronina, M.**, Prieto, P. (2024). Acquisition of suprasegmental phonology in child bilingualism. In M. Amengual (Eds.), _Cambridge Handbook of Bilingual Phonetics and Phonology_ (pp. 359–382). Cambridge University Press. doi: [https://doi.org/10.1017/9781009105767.017] (https://doi.org/10.1017/9781009105767.017)
+- **Pronina, M.**, Feldhausen, I., & Prieto, P. (in press). Expressivity and Prosody. In Gutzmann, D. & Turgay, K. (Eds.), _The Oxford Handbook of Expressivity_ (pp. 352–373). Oxford University Press. doi: [https://doi.org/10.1093/oxfordhb/9780198869450.001.0001](https://doi.org/10.1093/oxfordhb/9780198869450.001.0001)
+  
+- **Pronina, M.**, Prieto, P. (2024). Acquisition of suprasegmental phonology in child bilingualism. In M. Amengual (Eds.), _Cambridge Handbook of Bilingual Phonetics and Phonology_ (pp. 359–382). Cambridge University Press. doi: [https://doi.org/10.1017/9781009105767.017](https://doi.org/10.1017/9781009105767.017)
 
 
 # REVIEWS
