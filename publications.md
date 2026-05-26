@@ -7,25 +7,25 @@ _Please get in touch if you would like to read any of these but don’t have acc
 # JOURNAL ARTICLES
 
 
-- **Pronina, M.**, Florit-Pons, J., Coego, S., Prieto, P. (in press). The MultiModal Imitation Task: a
-validation study. _Journal of Monolingual and Bilingual Speech_. Preprint accessible at [https://doi.org/10.31234/osf.io/q59hf_v1](https://doi.org/10.31234/osf.io/q59hf_v1)
+- **Pronina, M.**, Florit-Pons, J., Coego, S., Prieto, P. (2026). The MultiModal Imitation Task: A validation study. _Journal of Monolingual and Bilingual Speech_. doi: [10.3138/jmbs-2024-0016](https://doi.or10.3138/jmbs-2024-0016)
 
-- Florit-Pons, J., **Pronina, M.**, Coego, S., & Prieto, P. (2026). Multimodal imitation reveals differences in typically developing children and children with neurodevelopmental disorders. Cognitive Development, 77, 101668, doi: [10.1016/j.cogdev.2025.101668](https://doi.org/10.1016/j.cogdev.2025.101668)
+- Florit-Pons, J., **Pronina, M.**, Coego, S., & Prieto, P. (2026). Multimodal imitation reveals differences in typically developing children and children with neurodevelopmental disorders. _Cognitive Development, 77_, 101668, doi: [10.1016/j.cogdev.2025.101668](https://doi.org/10.1016/j.cogdev.2025.101668)
 
-- Florit-Pons, J., **Pronina, M.**, Igualada, A., Prieto, P., & Norbury, C. F. (2025). Multimodal skills, but not motor skills, predict narrative and expressive pragmatic abilities in children with typical development and neurodevelopmental disorders. _Child Development_. _96_(5), 1807–1824. doi: [10.1111/cdev.70015](https://doi.org/10.1111/cdev.70015)
+- Florit-Pons, J., **Pronina, M.**, Igualada, A., Prieto, P., & Norbury, C. F. (2025). Multimodal skills, but not motor skills, predict narrative and expressive pragmatic abilities in children with typical development and neurodevelopmental disorders. _Child Development_, _96_(5), 1807–1824. doi: [10.1111/cdev.70015](https://doi.org/10.1111/cdev.70015)
 
 - Dyachenko, S. V., **Pronina, M.**\*, Knyazev, S. V. (2024). Dissimilative model for unstressed
-vowels: three Russian dialects. _Russian Linguistics_, 48:10. doi: [10.1007/s11185- 024-09294-3](https://doi.org/10.1007/s11185-024-09294-3) \*shared first-authorship, corresponding author
+vowels: three Russian dialects. _Russian Linguistics_, _48_:10. doi: [10.1007/s11185- 024-09294-3](https://doi.org/10.1007/s11185-024-09294-3) \*shared first-authorship, corresponding author
 
-- **Pronina, M.**, Grofulovic, J., Castillo, E., Prieto, P., & Igualada, A. (2023). Narrative abilities at 3 years of age are positively associated with gesture accuracy but negatively with gesture rate. _Journal of Speech, Language, and Hearing Research_, 66, 951-965. doi: [10.1044/2022_JSLHR-21-00414](https://doi.org/10.1044/2022_JSLHR-21-00414)
+- **Pronina, M.**, Grofulovic, J., Castillo, E., Prieto, P., & Igualada, A. (2023). Narrative abilities at 3 years of age are positively associated with gesture accuracy but negatively with gesture rate. _Journal of Speech, Language, and Hearing Research_, _66_, 951-965. doi: [10.1044/2022_JSLHR-21-00414](https://doi.org/10.1044/2022_JSLHR-21-00414)
 
-- **Pronina, M.**, Prieto, P., Bischetti, L., & Bambini, V. (2023). Expressive pragmatics and prosody in young preschoolers are more closely related to structural language than to mentalizing. _Language Learning and Development_, 19, 323-344. doi: [10.1080/15475441.2022.2074852](https://doi.org/10.1080/15475441.2022.2074852)
+- **Pronina, M.**, Prieto, P., Bischetti, L., & Bambini, V. (2023). Expressive pragmatics and prosody in young preschoolers are more closely related to structural language than to mentalizing. _Language Learning and Development_,
+  _19_, 323-344. doi: [10.1080/15475441.2022.2074852](https://doi.org/10.1080/15475441.2022.2074852)
 
-- Castillo, E., **Pronina, M.**, Hübscher, I., & Prieto, P. (2023). Narrative performance and sociopragmatic abilities in preschool children are linked to multimodal imitation skills. _Journal of Child Language_, 50, 52- 77. doi: [10.1017/S0305000921000404](https://doi.org/10.1017/S0305000921000404)
+- Castillo, E., **Pronina, M.**, Hübscher, I., & Prieto, P. (2023). Narrative performance and sociopragmatic abilities in preschool children are linked to multimodal imitation skills. _Journal of Child Language_, _50_, 52- 77. doi: [10.1017/S0305000921000404](https://doi.org/10.1017/S0305000921000404)
 
-- **Pronina, M.**., Hübscher, I, Holler, J., & Prieto, P. (2021). Interactional training interventions boost children's expressive pragmatic abilities: evidence from a novel multidimensional testing approach. _Cognitive Development_, 57, 101003. doi: [10.1016/j.cogdev.2020.101003](https://doi.org/10.1016/j.cogdev.2020.101003)
+- **Pronina, M.**., Hübscher, I, Holler, J., & Prieto, P. (2021). Interactional training interventions boost children's expressive pragmatic abilities: evidence from a novel multidimensional testing approach. _Cognitive Development_, _57_, 101003. doi: [10.1016/j.cogdev.2020.101003](https://doi.org/10.1016/j.cogdev.2020.101003)
 
-- **Pronina, M.**, Hübscher, I., Vilà-Giménez, I., & Prieto, P. (2021). Bridging the gap between prosody and pragmatics: The acquisition of pragmatic prosody in the preschool years and its relation with Theory of Mind. _Front. Psychol._ 12:662124. doi: [10.3389/fpsyg.2021.662124](https://doi.org/10.3389/fpsyg.2021.662124)
+- **Pronina, M.**, Hübscher, I., Vilà-Giménez, I., & Prieto, P. (2021). Bridging the gap between prosody and pragmatics: The acquisition of pragmatic prosody in the preschool years and its relation with Theory of Mind. _Front. Psychol._ _12_:662124. doi: [10.3389/fpsyg.2021.662124](https://doi.org/10.3389/fpsyg.2021.662124)
 
 
 # BOOK CHAPTERS
@@ -39,11 +39,11 @@ vowels: three Russian dialects. _Russian Linguistics_, 48:10. doi: [10.1007/s111
 # REVIEWS
 
 
-- **Pronina, M.**, Knyazev, S. (2020) [Рец. на: / Review of:] P. Prieto, N. Esteve-Gibert (eds.). The development of prosody in first language acquisition. Amsterdam: John Benjamins, 2018. vi  368 p. (Trends in Language Acquisition Research, 23.) ISBN 9789027200594 (print), 9789027264213 (e-book). _Voprosy Jazykoznanija (Topics in the Study of Language)_, 5, 142- 150. doi: [10.31857/0373-658X.2020.5.142-149](https://doi.org/10.31857/0373-658X.2020.5.142-149)
+- **Pronina, M.**, Knyazev, S. (2020) [Рец. на: / Review of:] P. Prieto, N. Esteve-Gibert (eds.). The development of prosody in first language acquisition. Amsterdam: John Benjamins, 2018. vi  368 p. (Trends in Language Acquisition Research, 23.) ISBN 9789027200594 (print), 9789027264213 (e-book). _Voprosy Jazykoznanija (Topics in the Study of Language)_, _5_, 142- 150. doi: [10.31857/0373-658X.2020.5.142-149](https://doi.org/10.31857/0373-658X.2020.5.142-149)
 
 
 # CONFERENCE PROCEEDINGS
-- **Pronina, M.**, Knyazev, S., Vanrell, M.M. (accepted). Acquisition of wh-question intonation in Russian heritage children. Proceedings of the 13th International Conference on Speech Prosody. May 26-29, 2026, Philadelphia, Pennsylvania, USA.
+- **Pronina, M.**, Knyazev, S., Vanrell, M.M. (2026). Acquisition of wh-question intonation in Russian heritage children. _Proceedings of the 13th International Conference on Speech Prosody_ (pp. 179-183). May 26-29, 2026, Philadelphia, Pennsylvania, USA. https://doi.org/10.21437/SpeechProsody.2026-36
   
 - **Pronina, M.**, Hübscher, I., Vilà -Giménez, I., & Prieto, P. (2022). Pragmatic prosody development from 3 to 8 years of age: A cross-sectional study in Catalan. _Proceedings of the 11th International Conference on Speech Prosody_ (pp. 92–96). 23-26 May 2022, Lisbon, Portugal. doi: [10.21437/SpeechProsody.2022](https://www.isca-archive.org/speechprosody_2022/pronina22_speechprosody.html#)
 
