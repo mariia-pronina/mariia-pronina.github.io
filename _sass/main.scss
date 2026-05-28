@@ -13,14 +13,14 @@ body a {
   color: $linkColor
 }
 
-.author__avatar {
-  margin-left: 40px;
+.layout--home .author__avatar {
+  margin-left: 60px;
 }
 
-.sidebar {
-  width: 22%;
+.layout--home .sidebar {
+  width: 20%;
 }
 
-.page {
-  width: 78%;
+.layout--home .page {
+  width: 80%;
 }
