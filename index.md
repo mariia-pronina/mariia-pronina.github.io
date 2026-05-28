@@ -3,11 +3,14 @@ layout: home
 title: "Home"
 ---
 
-Hello, I am Mariia (Marusia) Pronina. I have a PhD in Language Sciences and I am postdoc Juan de la Cierva at the University of the Balearic Islands (UIB).
+Hello, I am Mariia (Marusia) Pronina. 
 
-I am interested in the role of **multimodal cues** — prosody and gestures — in communication from a developmental and cognitive perspective. My research mainly focuses on **first language acquisition**. I study how the social and cognitive forces shape **pragmatic and prosodic development**. I am interested in bi- and **multilingualism** and the maintenance of **heritage** (migrant minority) languages.
+I do research in experimental linguistics as a Juan de la Cierva postdoc researcher at the University of the Balearic Islands (UIB) within the [Research Group on Sociolinguistics in the Balearic Islands](https://gresib.uib.cat).
 
-Together with Rebecca Woods I'm running an online discussion group **Making Waves** on the acquisition of prosody and gesture. You can check our [website](https://gresib.uib.cat](https://sites.google.com/view/making-waves-group/home?authuser=2)) for the upcoming seminars and recorded meetings.
+I am fascinated by how children come to develop language. In my research, I try to understand how language is acquired under different circumstances. My current postdoc project focuses on heritage language acquisition in multilingual context. I have also collaborated on studies involving children with neurodevelopmental disorders. I approach first language acquisition from a multimodal perspective, looking at prosody and gesture.
 
+I teach masters' courses on applied linguistics and methods in the UIB.
 
-I defended my PhD at the University Pompeu Fabra in Dr. Pilar Prieto's lab ([Group of Prosodic and Gesture Studies](https://www.upf.edu/en/web/grepg)). Now I am doing my postdoc at the University of the Balearic Islands within the GRESIB ([Research Group on Sociolinguistics in the Balearic Islands](https://gresib.uib.cat)) under the supervision of Maria del Mar Vanrell.
+Together with Rebecca Woods I’m running an online discussion group [Making Waves](https://gresib.uib.cat](https://sites.google.com/view/making-waves-group/home?authuser=2)) on the acquisition of prosody and gesture. You’re very welcome to join us — you can check out our website for upcoming seminars and recordings of past meetings.
+
+I feel very lucky to work with such wonderful colleagues on all these projects.
