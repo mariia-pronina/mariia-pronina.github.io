@@ -7,7 +7,7 @@ title: "presentations"
 
 ## Invited talks
 
-**Pronina, M.** , & Florit-Pons, J. (2026, May 18). _El Litmus Sentence Task Repetition: adaptacions i guies de correcció_. ALLENCAM Talks. Universitat Pompeu Fabra, Barcelona, Spain.
+**Pronina, M.** , & Florit-Pons, J. (2026, June 9). _El Litmus Sentence Task Repetition: adaptacions i guies de correcció_. ALLENCAM Talks. Universitat Pompeu Fabra, Barcelona, Spain.
 
 **Pronina, M.** (2026, March 10). _Sociolinguistic factors of heritage intonation in Russian-speaking children in Catalonia_. Seminar series of Cercle de Lingüística Aplicada (CLA). University of Lleida Lleida, Spain.
 
