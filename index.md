@@ -11,6 +11,6 @@ I am fascinated by how children come to develop language. In my research, I try 
 
 I teach masters' courses on applied linguistics and methods in the UIB.
 
-Together with Rebecca Woods I’m running an online discussion group [Making Waves](https://gresib.uib.cat](https://sites.google.com/view/making-waves-group/home?authuser=2)) on the acquisition of prosody and gesture. You’re very welcome to join us — you can check out our website for upcoming seminars and recordings of past meetings.
+Together with Rebecca Woods I’m running an online discussion group [Making Waves](https://sites.google.com/view/making-waves-group/) on the acquisition of prosody and gesture. You’re very welcome to join us — you can check out our website for upcoming seminars and recordings of past meetings.
 
 I feel very lucky to work with such wonderful colleagues on all these projects.
