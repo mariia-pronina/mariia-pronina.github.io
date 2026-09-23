@@ -7,6 +7,8 @@ title: "presentations"
 
 ## Invited talks
 
+**Pronina, M.** (2026, October 14). How gesture and prosody reveal differences in language development. Seminar series of Centre for Speech, Hearing, & Communication Research (CSHCR). Cardiff Metropolitan University, Cardiff, Wales, UK.
+
 **Pronina, M.** , & Florit-Pons, J. (2026, June 9). _El Litmus Sentence Task Repetition: adaptacions i guies de correcció_. ALLENCAM Talks. Universitat Pompeu Fabra, Barcelona, Spain.
 
 **Pronina, M.** (2026, March 10). _Sociolinguistic factors of heritage intonation in Russian-speaking children in Catalonia_. Seminar series of Cercle de Lingüística Aplicada (CLA). University of Lleida Lleida, Spain.
@@ -22,6 +24,16 @@ title: "presentations"
 **Pronina, M.** (2020, January 16). _Pragmatic competence in preschoolers and its link with other abilities_. NeTS Linguistics Seminar, IUSS, Pavia, Italy.
 
 ## 2026
+**Pronina, M.** , Mañas, I., & Vanrell, M.M. (2026, Oct. 28-30). Narrative skills in multilingual Russian-Catalan-Spanish-speaking children. [Poster presentation]. Many Paths to Language 2026. Max Planck Institute. Nijmegen, the Netherlands.
+
+Vanrell, M.M., Amengual Ripoll, C., & **Pronina, M.** (2026, Oct. 7-9). Family language policy in contexts of societal bilingualism. [Oral presentation]. Second International Symposium on Language Ideologies and Attitudes. Universitat de Lleida, Lleida, Spain.
+
+Vilà-Giménez, I., **Pronina, M.**, & Prieto, P. (2026, Sept. 9-11). Exploring children’s storytelling: Linking receptive vocabulary, narrative abilities, and gesture use in 7- to 9-year-olds. [Oral presentation]. 3rd International MultiModal Communication Symposium. University of Leuven. Leuven, Belgium.
+
+Olcay, T., **Pronina, M.**, Dallmann, N., Prieto, P., & Wagner, P. (2026, Sept. 9-11). Tapping to Speech Rhythm Reveals Language-Specific Encoding of Prominence. [Poster presentation]. 3rd International MultiModal Communication Symposium. University of Leuven. Leuven, Belgium.
+
+Vanrell, M.M., Baills, F., & **Pronina, M.** (2026, July 10). Prosòdia i gest en l’ensenyament del català com a llengua addicional. [Oral presentation]. 17è Workshop sobre prosòdia, oralitat i gestualitat del català. Universitat de Barcelona, Barcelona, Spain.
+
 Amengual Ripoll, C., **Pronina, M.**, Vanrell, M.M. (2026, July 6-7). _Actituds lingüístiques cap al català i el castellà en famílies russòfones_. [Oral presentation]. Polítiques lingüístiques familiars i activació de l’ús de llengües minoritzades en la infància, l’adolescència i la joventut. Universitat Rovira i Virgili, Tarragona, Spain.
 
 **Pronina, M.**, Knyazev, S., & Vanrell, M.M. (2026, June 3-5). _Individual differences in the acquisition of intonation in heritage multilingual children_. [Oral presentation]. 2nd ELLRA Conference. Universitat Autònoma de Barcelona, Barcelona, Spain.
