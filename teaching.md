@@ -6,7 +6,9 @@ title: "teaching"
 ### UIB (University of the Balearic Islands)
 Although I currently hold a research contract at the UIB, I have also served as the main instructor for the following courses:
 
-- Linguistic Competence: Theoretical Foundations and Research Methods (M.A., Linguistic and Literary Competence: Research and Teaching, language: Catalan)
+- Linguistic Competence: Theoretical Foundations and Research Methods (M.A., Linguistic and Literary Studies: Research and Teaching, language: Catalan)
+- Multilingual and Intercultural Skill Acquisition and Development (M.A., Linguistic and Literary Studies: Research and Teaching, language: Catalan)
+- Linguistic Typology (M.A., Linguistic and Literary Studies: Research and Teaching, language: Catalan)
 
 
 ### UPF (University Pompeu Fabra)
