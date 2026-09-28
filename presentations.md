@@ -17,7 +17,13 @@ title: "presentations"
 
 **Pronina, M.** (2024, September 14). _The acquisition of prosody in Russian heritage children in Catalonia_. Deutscher Katalanistentag 2024. University of Giessen, Giessen, Germany.
 
+**Pronina, M.** (2024, Apr. 29). _The development of lexical, prosodic, and gestural imitation skills across typically developing and clinical child populations_. Prosodic and Gestural Studies Group. Universitat Pompeu Fabra, Barcelona, Spain.
+
 **Pronina, M.** (2024, January 22). _The acquisition of prosody in Russian heritage children: the role of society and family._ Seminar series of PsychoLinguistics Lab. University of Konstanz. Konstanz, Germany.
+
+**Pronina, M.** (2024, Jan. 8). _A project on the acquisition of prosody in Russian heritage children: the role of society and family_. Joint seminar of ALLENCAM and GrEPG. Universitat Pompeu Fabra, Barcelona, Spain.
+
+**Pronina, M.** (2023, Nov. 24). _The linguistic vs. sociocognitive nature of expressive pragmatics: What is it about in the preschool years?_ Grup de Recerca Sociolingüística de les Illes Balears. University of the Balearic Islands. Palma de Mallorca, Spain.
 
 **Pronina, M.**(2021, February 10). _The acquisition of pragmatic prosody in the preschool years and its link to Theory of Mind_. Seminar series Talks on Formal Linguistics. University of the Basque Country, Vitoria, Spain.
 
